@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.css-li-container {
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.css-button-itself {
+  height: 30px;
+  margin-left: 10px;
+  background-color: transparent;
+  border-color: #ff0b37;
+  border-radius: 10px;
+  color: #ff0b37;
+  border-width: 1px;
+  width: 65px;
+}
+
+.css-button-itself:hover {
+  cursor: pointer;
+}
